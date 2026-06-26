@@ -1,4 +1,4 @@
-
+22
 import os
 from modules.map_loader import load_map, list_maps
 from modules.game import run_game
